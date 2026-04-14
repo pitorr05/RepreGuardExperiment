@@ -1,0 +1,6 @@
+"datasets/**/*.json" 
+"!datasets/detectrl_dataset/main_dataset/detectrl_train_dataset_llm_type_ChatGPT.json" 
+"!datasets/detectrl_dataset/main_dataset/detectrl_test_dataset_llm_type_ChatGPT.json" 
+"!datasets/detectrl_dataset/main_dataset/detectrl_test_dataset_llm_type_Google-PaLM.json" 
+"!datasets/detectrl_dataset/main_dataset/detectrl_test_dataset_llm_type_Claude-instant.json" 
+"!datasets/detectrl_dataset/main_dataset/detectrl_test_dataset_llm_type_Llama-2-70b.json" 
